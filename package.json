@@ -1,0 +1,19 @@
+{
+  "name": "ibmtest",
+  "version": "1.0.0",
+  "description": "a test put out by ibm for an interview",
+  "main": "app.js",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "ibm"
+  ],
+  "author": "william dunn",
+  "license": "ISC"
+}

@@ -22,5 +22,5 @@ OR
 
 to run karma test
 
-I build it to be very lightweight though I believe I hit all the bonus points.
+I built it to be very lightweight though I believe I hit all the bonus points.
 No generator was used in the making of this app but I would totally use one otherwise YO!

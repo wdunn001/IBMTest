@@ -1,3 +1,5 @@
+Running in my docker environment https://ibm.dunnbydesign.us/ 
+
 This is the test requested by IBM
 
 I decided to use the REAN stack (redis express angularjs node)
